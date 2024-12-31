@@ -1,0 +1,10 @@
+{
+    "name": "orbital-laser",
+    "version": "0.1.0",
+    "title": "Orbital Laser",
+    "author": "",
+    "homepage": "",
+    "factorio_version": "2.0",
+    "dependencies": ["base", "space-age"],
+    "description": "This mod adds in a laser that can be fired from orbit."
+  }
